@@ -1,4 +1,6 @@
-# FDM_template
-FDM template repo
+# CB Environmental Indicators 
 
-## Change the title of this README to match the name of the dataset and provide basic details about the data source and FDM contents.
+
+## This repo contains data relating to Gepgrtaphical based data, whether this be LSAO or pseudonymised UPRN data.
+
+This is a Work in progress and information will be added asap.
