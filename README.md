@@ -10,6 +10,6 @@ The list below is a summary of the available data - by type
 |-----------|-------|-------|---------------------|
 | cb_DailyAverage_AirQuality_4Yrs | Data | Daily Air quality across Bradford District , see docs for details. |
 | tbl_DailyAirQuality | Data | Daily Air quality from a number of sites across Bradford and District, from 2018 to 2023 |
-| connected_bradford_environmental_exposure_v2| Data | A number of environmental indicators linked to Pseud UPRNS, see env_Data_Dictionary.csv for the data dictionary of this dataset |
+| connected_bradford_environmental_exposure_v2| Data | A number of environmental indicators linked to Pseud UPRNS, see env_Data_Dictionary.csv for the data dictionary of this dataset in the docs folder |
 
 
