@@ -1,0 +1,508 @@
+﻿RowNumber,variable,label
+1,pseudonymised_uprn,Pseudonymised Unique Property Reference Number
+2,aq_2018_cbmcd-pm10_g_1_100_mean,"Average concentration of Particulate Matter (PM10 < 10Âµm) in micrograms within 100m circular buffer around the home address, using 2018 data from the City of Bradford Metropolitan District Council."
+3,aq_2018_cbmcd-pm10_g_1_100_max,"Maximum concentration of Particulate Matter (PM10 < 10Âµm) in micrograms within 100m circular buffer around the home address, using 2018 data from the City of Bradford Metropolitan District Council."
+4,aq_2018_cbmcd-pm10_g_1_300_mean,"Average concentration of Particulate Matter (PM10 < 10Âµm) in micrograms within 300m circular buffer around the home address, using 2018 data from the City of Bradford Metropolitan District Council."
+5,aq_2018_cbmcd-pm10_g_1_300_max,"Maximum concentration of Particulate Matter (PM10 < 10Âµm) in micrograms within 300m circular buffer around the home address, using 2018 data from the City of Bradford Metropolitan District Council."
+6,aq_2018_cbmcd-pm10_g_1_500_mean,"Average concentration of Particulate Matter (PM10 < 10Âµm) in micrograms within 500m circular buffer around the home address, using 2018 data from the City of Bradford Metropolitan District Council."
+7,aq_2018_cbmcd-pm10_g_1_500_max,"Maximum concentration of Particulate Matter (PM10 < 10Âµm) in micrograms within 500m circular buffer around the home address, using 2018 data from the City of Bradford Metropolitan District Council."
+8,aq_2018_cbmcd-pm10_g_1_1000_mean,"Average concentration of Particulate Matter (PM10 < 10Âµm) in micrograms within 1000m circular buffer around the home address, using 2018 data from the City of Bradford Metropolitan District Council."
+9,aq_2018_cbmcd-pm10_g_1_1000_max,"Maximum concentration of Particulate Matter (PM10 < 10Âµm) in micrograms within 1000m circular buffer around the home address, using 2018 data from the City of Bradford Metropolitan District Council."
+10,aq_2018_cbmcd-pm10_g_1_2000_mean,"Average concentration of Particulate Matter (PM10 < 10Âµm) in micrograms within 2000m circular buffer around the home address, using 2018 data from the City of Bradford Metropolitan District Council."
+11,aq_2018_cbmcd-pm10_g_1_2000_max,"Maximum concentration of Particulate Matter (PM10 < 10Âµm) in micrograms within 2000m circular buffer around the home address, using 2018 data from the City of Bradford Metropolitan District Council."
+12,aq_2018_cbmdc-pm2-5_g_1_100_mean,"Average concentration of Particulate Matter (PM2.5 < 2.5Âµm) in micrograms within 100m circular buffer around the home address, using 2018 data from the City of Bradford Metropolitan District Council."
+13,aq_2018_cbmdc-pm2-5_g_1_100_max,"Maximum concentration of Particulate Matter (PM2.5 < 2.5Âµm) in micrograms within 100m circular buffer around the home address, using 2018 data from the City of Bradford Metropolitan District Council."
+14,aq_2018_cbmdc-pm2-5_g_1_300_mean,"Average concentration of Particulate Matter (PM2.5 < 2.5Âµm) in micrograms within 300m circular buffer around the home address, using 2018 data from the City of Bradford Metropolitan District Council."
+15,aq_2018_cbmdc-pm2-5_g_1_300_max,"Maximum concentration of Particulate Matter (PM2.5 < 2.5Âµm) in micrograms within 300m circular buffer around the home address, using 2018 data from the City of Bradford Metropolitan District Council."
+16,aq_2018_cbmdc-pm2-5_g_1_500_mean,"Average concentration of Particulate Matter (PM2.5 < 2.5Âµm) in micrograms within 500m circular buffer around the home address, using 2018 data from the City of Bradford Metropolitan District Council."
+17,aq_2018_cbmdc-pm2-5_g_1_500_max,"Maximum concentration of Particulate Matter (PM2.5 < 2.5Âµm) in micrograms within 500m circular buffer around the home address, using 2018 data from the City of Bradford Metropolitan District Council."
+18,aq_2018_cbmdc-pm2-5_g_1_1000_mean,"Average concentration of Particulate Matter (PM2.5 < 2.5Âµm) in micrograms within 1000m circular buffer around the home address, using 2018 data from the City of Bradford Metropolitan District Council."
+19,aq_2018_cbmdc-pm2-5_g_1_1000_max,"Maximum concentration of Particulate Matter (PM2.5 < 2.5Âµm) in micrograms within 1000m circular buffer around the home address, using 2018 data from the City of Bradford Metropolitan District Council."
+20,aq_2018_cbmdc-pm2-5_g_1_2000_mean,"Average concentration of Particulate Matter (PM2.5 < 2.5Âµm) in micrograms within 2000m circular buffer around the home address, using 2018 data from the City of Bradford Metropolitan District Council."
+21,aq_2018_cbmdc-pm2-5_g_1_2000_max,"Maximum concentration of Particulate Matter (PM2.5 < 2.5Âµm) in micrograms within 2000m circular buffer around the home address, using 2018 data from the City of Bradford Metropolitan District Council."
+22,aq_2018_cbmdc-nox_g_1_100_mean,"Average concentration of nitrogen oxide (NOx expressed as NO2) in micrograms within 100m circular buffer around the home address, using 2018 data from the City of Bradford Metropolitan District Council."
+23,aq_2018_cbmdc-nox_g_1_100_max,"Maximum concentration of nitrogen oxide (NOx expressed as NO2) in micrograms within 100m circular buffer around the home address, using 2018 data from the City of Bradford Metropolitan District Council."
+24,aq_2018_cbmdc-nox_g_1_300_mean,"Average concentration of nitrogen oxide (NOx expressed as NO2) in micrograms within 300m circular buffer around the home address, using 2018 data from the City of Bradford Metropolitan District Council."
+25,aq_2018_cbmdc-nox_g_1_300_max,"Maximum concentration of nitrogen oxide (NOx expressed as NO2) in micrograms within 300m circular buffer around the home address, using 2018 data from the City of Bradford Metropolitan District Council."
+26,aq_2018_cbmdc-nox_g_1_500_mean,"Average concentration of nitrogen oxide (NOx expressed as NO2) in micrograms within 500m circular buffer around the home address, using 2018 data from the City of Bradford Metropolitan District Council."
+27,aq_2018_cbmdc-nox_g_1_500_max,"Maximum concentration of nitrogen oxide (NOx expressed as NO2) in micrograms within 500m circular buffer around the home address, using 2018 data from the City of Bradford Metropolitan District Council."
+28,aq_2018_cbmdc-nox_g_1_1000_mean,"Average concentration of nitrogen oxide (NOx expressed as NO2) in micrograms within 1000m circular buffer around the home address, using 2018 data from the City of Bradford Metropolitan District Council."
+29,aq_2018_cbmdc-nox_g_1_1000_max,"Maximum concentration of nitrogen oxide (NOx expressed as NO2) in micrograms within 1000m circular buffer around the home address, using 2018 data from the City of Bradford Metropolitan District Council."
+30,aq_2018_cbmdc-nox_g_1_2000_mean,"Average concentration of nitrogen oxide (NOx expressed as NO2) in micrograms within 2000m circular buffer around the home address, using 2018 data from the City of Bradford Metropolitan District Council."
+31,aq_2018_cbmdc-nox_g_1_2000_max,"Maximum concentration of nitrogen oxide (NOx expressed as NO2) in micrograms within 2000m circular buffer around the home address, using 2018 data from the City of Bradford Metropolitan District Council."
+32,aq_2018_cbmdc-pm10_i_2_100_mean,"Average concentration of Particulate Matter (PM10 < 10Âµm)  in micrograms within 100m street network based catchment area around the home address, using 2018 data from the City of Bradford Metropolitan District Council."
+33,aq_2018_cbmdc-pm10_i_2_100_max,"Maximum concentration of Particulate Matter (PM10 < 10Âµm) in micrograms within 100m street network based catchment area around the home address, using 2018 data from the City of Bradford Metropolitan District Council."
+34,aq_2018_cbmdc-pm2-5_i_2_100_mean,"Average concentration of Particulate Matter (PM2.5 < 2.5Âµm) in micrograms within 100m street network based catchment area around the home address, using 2018 data from the City of Bradford Metropolitan District Council."
+35,aq_2018_cbmdc-pm2-5_i_2_100_max,"Maximum concentration of Particulate Matter (PM2.5 < 2.5Âµm) in micrograms within 100m street network based catchment area around the home address, using 2018 data from the City of Bradford Metropolitan District Council."
+36,aq_2018_cbmdc-nox_i_2_100_mean,"Average concentration of nitrogen oxide (NOx expressed as NO2) in micrograms within 100m street network based catchment area around the home address, using 2018 data from the City of Bradford Metropolitan District Council."
+37,aq_2018_cbmdc-nox_i_2_100_max,"Maximum concentration of nitrogen oxide (NOx expressed as NO2) in micrograms within 100m street network based catchment area around the home address, using 2018 data from the City of Bradford Metropolitan District Council."
+38,aq_2018_cbmdc-pm10_i_2_300_mean,"Average concentration of Particulate Matter (PM10 < 10Âµm) in micrograms within 300m street network based catchment area around the home address, using 2018 data from the City of Bradford Metropolitan District Council."
+39,aq_2018_cbmdc-pm10_i_2_300_max,"Maximum concentration of Particulate Matter (PM10 < 10Âµm) in micrograms within 300m street network based catchment area around the home address, using 2018 data from the City of Bradford Metropolitan District Council."
+40,aq_2018_cbmdc-pm2-5_i_2_300_mean,"Average concentration of Particulate Matter (PM2.5 < 2.5Âµm) in micrograms within 300m street network based catchment area around the home address, using 2018 data from the City of Bradford Metropolitan District Council."
+41,aq_2018_cbmdc-pm2-5_i_2_300_max,"Maximum concentration of Particulate Matter (PM2.5 < 2.5Âµm) in micrograms within 300m street network based catchment area around the home address, using 2018 data from the City of Bradford Metropolitan District Council."
+42,aq_2018_cbmdc-nox_i_2_300_mean,"Average concentration of nitrogen oxide (NOx expressed as NO2) in micrograms within 300m street network based catchment area around the home address, using 2018 data from the City of Bradford Metropolitan District Council."
+43,aq_2018_cbmdc-nox_i_2_300_max,"Maximum concentration of nitrogen oxide (NOx expressed as NO2) in micrograms within 300m street network based catchment area around the home address, using 2018 data from the City of Bradford Metropolitan District Council."
+44,aq_2018_cbmdc-pm10_i_2_500_mean,"Average concentration of Particulate Matter (PM10 < 10Âµm) in micrograms within 500m street network based catchment area around the home address, using 2018 data from the City of Bradford Metropolitan District Council."
+45,aq_2018_cbmdc-pm10_i_2_500_max,"Maximum concentration of Particulate Matter (PM10 < 10Âµm) in micrograms within 500m street network based catchment area around the home address, using 2018 data from the City of Bradford Metropolitan District Council."
+46,aq_2018_cbmdc-pm2-5_i_2_500_mean,"Average concentration of Particulate Matter (PM2.5 < 2.5Âµm) in micrograms within 500m street network based catchment area around the home address, using 2018 data from the City of Bradford Metropolitan District Council."
+47,aq_2018_cbmdc-pm2-5_i_2_500_max,"Maximum concentration of Particulate Matter (PM2.5 < 2.5Âµm) in micrograms within 500m street network based catchment area around the home address, using 2018 data from the City of Bradford Metropolitan District Council."
+48,aq_2018_cbmdc-nox_i_2_500_mean,"Average concentration of nitrogen oxide (NOx expressed as NO2) in micrograms within 500m street network based catchment area around the home address, using 2018 data from the City of Bradford Metropolitan District Council."
+49,aq_2018_cbmdc-nox_i_2_500_max,"Maximum concentration of nitrogen oxide (NOx expressed as NO2) in micrograms within 500m street network based catchment area around the home address, using 2018 data from the City of Bradford Metropolitan District Council."
+50,aq_2018_cbmdc-pm10_i_2_1000_mean,"Average concentration of Particulate Matter (PM10 < 10Âµm)  in micrograms within 1000m street network based catchment area around the home address, using 2018 data from the City of Bradford Metropolitan District Council."
+51,aq_2018_cbmdc-pm10_i_2_1000_max,"Maximum concentration of Particulate Matter (PM10 < 10Âµm) in micrograms within 1000m street network based catchment area around the home address, using 2018 data from the City of Bradford Metropolitan District Council."
+52,aq_2018_cbmdc-pm2-5_i_2_1000_mean,"Average concentration of Particulate Matter (PM2.5 < 2.5Âµm) in micrograms within 1000m street network based catchment area around the home address, using 2018 data from the City of Bradford Metropolitan District Council."
+53,aq_2018_cbmdc-pm2-5_i_2_1000_max,"Maximum concentration of Particulate Matter (PM2.5 < 2.5Âµm) in micrograms within 1000m street network based catchment area around the home address, using 2018 data from the City of Bradford Metropolitan District Council."
+54,aq_2018_cbmdc-nox_i_2_1000_mean,"Average concentration of nitrogen oxide (NOx expressed as NO2) in micrograms within 1000m street network based catchment area around the home address, using 2018 data from the City of Bradford Metropolitan District Council."
+55,aq_2018_cbmdc-nox_i_2_1000_max,"Maximum concentration of nitrogen oxide (NOx expressed as NO2) in micrograms within 1000m street network based catchment area around the home address, using 2018 data from the City of Bradford Metropolitan District Council."
+56,aq_2018_cbmdc-pm10_i_2_1500_mean,"Average concentration of Particulate Matter (PM10 < 10Âµm) in micrograms within 1500m street network based catchment area around the home address, using 2018 data from the City of Bradford Metropolitan District Council."
+57,aq_2018_cbmdc-pm10_i_2_1500_max,"Maximum concentration of Particulate Matter (PM10 < 10Âµm) in micrograms within 1500m street network based catchment area around the home address, using 2018 data from the City of Bradford Metropolitan District Council."
+58,aq_2018_cbmdc-pm2-5_i_2_1500_mean,"Average concentration of Particulate Matter (PM2.5 < 2.5Âµm) in micrograms within 1500m street network based catchment area around the home address, using 2018 data from the City of Bradford Metropolitan District Council."
+59,aq_2018_cbmdc-pm2-5_i_2_1500_max,"Maximum concentration of Particulate Matter (PM2.5 < 2.5Âµm) in micrograms within 1500m street network based catchment area around the home address, using 2018 data from the City of Bradford Metropolitan District Council."
+60,aq_2018_cbmdc-nox_i_2_1500_mean,"Average concentration of nitrogen oxide (NOx expressed as NO2) in micrograms within 1500m street network based catchment area around the home address, using 2018 data from the City of Bradford Metropolitan District Council."
+61,aq_2018_cbmdc-nox_i_2_1500_max,"Maximum concentration of nitrogen oxide (NOx expressed as NO2) in micrograms within 1500m street network based catchment area around the home address, using 2018 data from the City of Bradford Metropolitan District Council."
+62,aq_2018_defra-pm10_g_1_100_mean,"Average concentration of Particulate Matter (PM10 < 10Âµm) in micrograms within 100m circular buffer around the home address, using 2018 data from the Department for Environment, Food and Rural Affairs."
+63,aq_2018_defra-pm10_g_1_100_max,"Maximum concentration of Particulate Matter (PM10 < 10Âµm) in micrograms within 100m circular buffer around the home address, using 2018 data from the Department for Environment, Food and Rural Affairs."
+64,aq_2018_defra-pm10_g_1_300_mean,"Average concentration of Particulate Matter (PM10 < 10Âµm) in micrograms within 300m circular buffer around the home address, using 2018 data from the Department for Environment, Food and Rural Affairs."
+65,aq_2018_defra-pm10_g_1_300_max,"Maximum concentration of Particulate Matter (PM10 < 10Âµm) in micrograms within 300m circular buffer around the home address, using 2018 data from the Department for Environment, Food and Rural Affairs."
+66,aq_2018_defra-pm10_g_1_500_mean,"Average concentration of Particulate Matter (PM10 < 10Âµm) in micrograms within 500m circular buffer around the home address, using 2018 data from the Department for Environment, Food and Rural Affairs."
+67,aq_2018_defra-pm10_g_1_500_max,"Maximum concentration of Particulate Matter (PM10 < 10Âµm) in micrograms within 500m circular buffer around the home address, using 2018 data from the Department for Environment, Food and Rural Affairs."
+68,aq_2018_defra-pm10_g_1_1000_mean,"Average concentration of Particulate Matter (PM10 < 10Âµm) in micrograms within 1000m circular buffer around the home address, using 2018 data from the Department for Environment, Food and Rural Affairs."
+69,aq_2018_defra-pm10_g_1_1000_max,"Maximum concentration of Particulate Matter (PM10 < 10Âµm) in micrograms within 1000m circular buffer around the home address, using 2018 data from the Department for Environment, Food and Rural Affairs."
+70,aq_2018_defra-pm10_g_1_2000_mean,"Average concentration of Particulate Matter (PM10 < 10Âµm) in micrograms within 2000m circular buffer around the home address, using 2018 data from the Department for Environment, Food and Rural Affairs."
+71,aq_2018_defra-pm10_g_1_2000_max,"Maximum concentration of Particulate Matter (PM10 < 10Âµm) in micrograms within 2000m circular buffer around the home address, using 2018 data from the Department for Environment, Food and Rural Affairs."
+72,aq_2018_defra-pm2-5_g_1_100_mean,"Average concentration of Particulate Matter (PM2.5 < 2.5Âµm) in micrograms within 100m circular buffer around the home address, using 2018 data from the Department for Environment, Food and Rural Affairs."
+73,aq_2018_defra-pm2-5_g_1_100_max,"Maximum concentration of Particulate Matter (PM2.5 < 2.5Âµm) in micrograms within 100m circular buffer around the home address, using 2018 data from the Department for Environment, Food and Rural Affairs."
+74,aq_2018_defra-pm2-5_g_1_300_mean,"Average concentration of Particulate Matter (PM2.5 < 2.5Âµm) in micrograms within 300m circular buffer around the home address, using 2018 data from the Department for Environment, Food and Rural Affairs."
+75,aq_2018_defra-pm2-5_g_1_300_max,"Maximum concentration of Particulate Matter (PM2.5 < 2.5Âµm) in micrograms within 300m circular buffer around the home address, using 2018 data from the Department for Environment, Food and Rural Affairs."
+76,aq_2018_defra-pm2-5_g_1_500_mean,"Average concentration of Particulate Matter (PM2.5 < 2.5Âµm) in micrograms within 500m circular buffer around the home address, using 2018 data from the Department for Environment, Food and Rural Affairs."
+77,aq_2018_defra-pm2-5_g_1_500_max,"Maximum concentration of Particulate Matter (PM2.5 < 2.5Âµm) in micrograms within 500m circular buffer around the home address, using 2018 data from the Department for Environment, Food and Rural Affairs."
+78,aq_2018_defra-pm2-5_g_1_1000_mean,"Average concentration of Particulate Matter (PM2.5 < 2.5Âµm) in micrograms within 1000m circular buffer around the home address, using 2018 data from the Department for Environment, Food and Rural Affairs."
+79,aq_2018_defra-pm2-5_g_1_1000_max,"Maximum concentration of Particulate Matter (PM2.5 < 2.5Âµm) in micrograms within 1000m circular buffer around the home address, using 2018 data from the Department for Environment, Food and Rural Affairs."
+80,aq_2018_defra-pm2-5_g_1_2000_mean,"Average concentration of Particulate Matter (PM2.5 < 2.5Âµm) in micrograms within 2000m circular buffer around the home address, using 2018 data from the Department for Environment, Food and Rural Affairs."
+81,aq_2018_defra-pm2-5_g_1_2000_max,"Maximum concentration of Particulate Matter (PM2.5 < 2.5Âµm) in micrograms within 2000m circular buffer around the home address, using 2018 data from the Department for Environment, Food and Rural Affairs."
+82,aq_2018_defra-nox_g_1_100_mean,"Average concentration of nitrogen oxide (NOx expressed as NO2) in micrograms within 100m circular buffer around the home address, using 2018 data from the Department for Environment, Food and Rural Affairs."
+83,aq_2018_defra-nox_g_1_100_max,"Maximum concentration of nitrogen oxide (NOx expressed as NO2) in micrograms within 100m circular buffer around the home address, using 2018 data from the Department for Environment, Food and Rural Affairs."
+84,aq_2018_defra-nox_g_1_300_mean,"Average concentration of nitrogen oxide (NOx expressed as NO2) in micrograms within 300m circular buffer around the home address, using 2018 data from the Department for Environment, Food and Rural Affairs."
+85,aq_2018_defra-nox_g_1_300_max,"Maximum concentration of nitrogen oxide (NOx expressed as NO2) in micrograms within 300m circular buffer around the home address, using 2018 data from the Department for Environment, Food and Rural Affairs."
+86,aq_2018_defra-nox_g_1_500_mean,"Average concentration of nitrogen oxide (NOx expressed as NO2) in micrograms within 500m circular buffer around the home address, using 2018 data from the Department for Environment, Food and Rural Affairs."
+87,aq_2018_defra-nox_g_1_500_max,"Maximum concentration of nitrogen oxide (NOx expressed as NO2) in micrograms within 500m circular buffer around the home address, using 2018 data from the Department for Environment, Food and Rural Affairs."
+88,aq_2018_defra-nox_g_1_1000_mean,"Average concentration of nitrogen oxide (NOx expressed as NO2) in micrograms within 1000m circular buffer around the home address, using 2018 data from the Department for Environment, Food and Rural Affairs."
+89,aq_2018_defra-nox_g_1_1000_max,"Maximum concentration of nitrogen oxide (NOx expressed as NO2) in micrograms within 1000m circular buffer around the home address, using 2018 data from the Department for Environment, Food and Rural Affairs."
+90,aq_2018_defra-nox_g_1_2000_mean,"Average concentration of nitrogen oxide (NOx expressed as NO2) in micrograms within 2000m circular buffer around the home address, using 2018 data from the Department for Environment, Food and Rural Affairs."
+91,aq_2018_defra-nox_g_1_2000_max,"Maximum concentration of nitrogen oxide (NOx expressed as NO2) in micrograms within 2000m circular buffer around the home address, using 2018 data from the Department for Environment, Food and Rural Affairs."
+92,be_2021_footprint_a,Size of the building footprint of the building containing the home address in square meters.
+93,be_2021_height_a,Height of the building containing the home address in meters.
+94,be_2021_volume_a,Volume of the building containing the home address in cubic square meters.
+95,be_2021_floorarea_a,Floor area of the building containing the home address in square meters.
+96,be_2021_fsi_c,Floor-space index (FSI) of the block containing the home address.
+97,be_2021_gsi_c,Ground-space index (GSI) of the block containing the home address.
+98,be_2021_osr_c,Open-space ratio (OSR) of the block containing the home address.
+99,be_2021_l_c,Average building layers of floors (L) of the block containing the home address.
+100,be_2021_blockarea_c,Size of the block containing the home address in square meters.
+101,be_2021_footprint_c_sum,Sum of all building footprints within the block containing the home address in square meters.
+102,be_2021_height_c_mean,Average height of all buildings within the block containing the home address in meters.
+103,be_2021_floorarea_c_sum,Sum of floor area within the block containing the home address in square meters.
+104,be_2021_volume_c_sum,Sum of volume of all buildings within the block containing the home address in square meters.
+105,be_2021_volume-density_c,Volume density of the block containing the home address in square meters.
+106,fe_2021_all_count_e_4_0-001,Distance decay weighted (parameter Î² = 0.001) count of all food outlets.
+107,fe_2021_all_count_e_4_0-003,Distance decay weighted (parameter Î² = 0.003) count of all food outlets.
+108,fe_2021_all_count_e_4_0-005,Distance decay weighted (parameter Î² = 0.005) count of all food outlets.
+109,fe_2021_all_count_e_4_0-007,Distance decay weighted (parameter Î² = 0.007) count of all food outlets.
+110,fe_2021_all_count_e_4_0-01,Distance decay weighted (parameter Î² = 0.01) count of all food outlets.
+111,fe_2021_all-count_f_2_300,Count of all food outlets within street network based distance of 300m.
+112,fe_2021_all-count_f_2_500,Count of all food outlets within street network based distance of 500m.
+113,fe_2021_all-count_f_2_1000,Count of all food outlets within street network based distance of 1000m.
+114,fe_2021_all-count_f_2_1500,Count of all food outlets within street network based distance of 1500m.
+115,fe_2021_all-count_f_2_2000,Count of all food outlets within street network based distance of 2000m.
+116,fe_2021_all-distance_f_2_mean,Average distance to all food outlets.
+117,fe_2021_all-closest_d_2,Distance to the closest food oulet in meters.
+118,fe_2021_ff-wide-count_e_4_0-001,Distance decay weighted (parameter Î² = 0.001) count of fast-food outlets (wide definition).
+119,fe_2021_ff-wide-count_e_4_0-003,Distance decay weighted (parameter Î² = 0.003) count of fast-food outlets (wide definition).
+120,fe_2021_ff-wide-count_e_4_0-005,Distance decay weighted (parameter Î² = 0.005) count of fast-food outlets (wide definition).
+121,fe_2021_ff-wide-count_e_4_0-007,Distance decay weighted (parameter Î² = 0.007) count of fast-food outlets (wide definition).
+122,fe_2021_ff-wide-count_e_4_0-01,Distance decay weighted (parameter Î² = 0.01) count of fast-food outlets (wide definition).
+123,fe_2021_ff-wide-count_f_2_300,Count of fast-food outlets (wide definition) within street network based distance of 300m.
+124,fe_2021_ff-wide-count_f_2_500,Count of fast-food outlets (wide definition) within street network based distance of 500m.
+125,fe_2021_ff-wide-count_f_2_1000,Count of fast-food outlets (wide definition) within street network based distance of 1000m.
+126,fe_2021_ff-wide-count_f_2_1500,Count of fast-food outlets (wide definition) within street network based distance of 1500m.
+127,fe_2021_ff-wide-count_f_2_2000,Count of fast-food outlets (wide definition) within street network based distance of 2000m.
+128,fe_2021_ff-wide-distance_f_2_mean,Average distance to all fast-food outlets (narrowly defined).
+129,fe_2021_ff-wide-closest_d_2,Distance to the closest fast-food outlet (wide definition) in meters.
+130,fe_2021_ff-narrow-count_e_4_0-001,Distance decay weighted (parameter Î² = 0.001) count of fast-food outlets (narrow definition).
+131,fe_2021_ff-narrow-count_e_4_0-003,Distance decay weighted (parameter Î² = 0.003) count of fast-food outlets (narrow definition).
+132,fe_2021_ff-narrow-count_e_4_0-005,Distance decay weighted (parameter Î² = 0.005) count of fast-food outlets (narrow definition).
+133,fe_2021_ff-narrow-count_e_4_0-007,Distance decay weighted (parameter Î² = 0.007) count of fast-food outlets (narrow definition).
+134,fe_2021_ff-narrow-count_e_4_0-01,Distance decay weighted (parameter Î² = 0.01) count of fast-food outlets (narrow definition).
+135,fe_2021_ff-narrow-count_f_2_300,Count of fast-food outlets (narrow definition) within street network based distance of 300m.
+136,fe_2021_ff-narrow-count_f_2_500,Count of fast-food outlets (narrow definition) within street network based distance of 500m.
+137,fe_2021_ff-narrow-count_f_2_1000,Count of fast-food outlets (narrow definition) within street network based distance of 1000m.
+138,fe_2021_ff-narrow-count_f_2_1500,Count of fast-food outlets (narrow definition) within street network based distance of 1500m.
+139,fe_2021_ff-narrow-count_f_2_2000,Count of fast-food outlets (narrow definition) within street network based distance of 2000m.
+140,fe_2021_ff-narrow-distance_f_2_mean,Average distance to all fast-food outlets (narrow definition).
+141,fe_2021_ff-narrow-closest_d_2,Distance to the closest fast-food outlet (narrow definition) in meters.
+142,gg_2021_acs-count_e_4_0-001,Distance decay weighted (parameter Î² = 0.001) count of allotments or community growing spaces.
+143,gg_2021_acs-count_e_4_0-003,Distance decay weighted (parameter Î² = 0.003) count of allotments or community growing spaces.
+144,gg_2021_acs-count_e_4_0-005,Distance decay weighted (parameter Î² = 0.005) count of allotments or community growing spaces.
+145,gg_2021_acs-count_e_4_0-007,Distance decay weighted (parameter Î² = 0.007) count of allotments or community growing spaces.
+146,gg_2021_acs-count_e_4_0-01,Distance decay weighted (parameter Î² = 0.01) count of allotments or community growing spaces.
+147,gg_2021_acs-area_e_4_0-001,Distance decay weighted (parameter Î² = 0.001) area of allotments or community growing spaces.
+148,gg_2021_acs-area_e_4_0-003,Distance decay weighted (parameter Î² = 0.003) area of allotments or community growing spaces.
+149,gg_2021_acs-area_e_4_0-005,Distance decay weighted (parameter Î² = 0.005) area of allotments or community growing spaces.
+150,gg_2021_acs-area_e_4_0-007,Distance decay weighted (parameter Î² = 0.007) area of allotments or community growing spaces.
+151,gg_2021_acs-area_e_4_0-01,Distance decay weighted (parameter Î² = 0.01) area of allotments or community growing spaces.
+152,gg_2021_acs-count_f_2_300,Count of allotments or community growing spaces within street network based distance of 300m.
+153,gg_2021_acs-count_f_2_500,Count of allotments or community growing spaces within street network based distance of 500m.
+154,gg_2021_acs-count_f_2_1000,Count of allotments or community growing spaces within street network based distance of 1000m.
+155,gg_2021_acs-count_f_2_2000,Count of allotments or community growing spaces within street network based distance of 2000m.
+156,gg_2021_acs-count-2ha_f_2_300,Count of allotments or community growing spaces of at least 2 hectar within street network based distance of 300m.
+157,gg_2021_acs-count-20ha_f_2_2000,Count of allotments or community growing spaces of at least 20 hectar within street network based distance of 2000m.
+158,gg_2021_acs-count-100ha_f_2_5000,Count of allotments or community growing spaces of at least 100 hectar within street network based distance of 5000m.
+159,gg_2021_acs-distance_f_2_mean,Average distance to all allotments or community growing spaces.
+160,gg_2021_acs-closest_d_2,Distance to the closest allotment or community growing space.
+161,gg_2021_all-count_e_4_0-001,Distance decay weighted (parameter Î² = 0.001) count of all green spaces.
+162,gg_2021_all-count_e_4_0-003,Distance decay weighted (parameter Î² = 0.003) count of all green spaces.
+163,gg_2021_all-count_e_4_0-005,Distance decay weighted (parameter Î² = 0.005) count of all green spaces.
+164,gg_2021_all-count_e_4_0-007,Distance decay weighted (parameter Î² = 0.007) count of all green spaces.
+165,gg_2021_all-count_e_4_0-01,Distance decay weighted (parameter Î² = 0.01) count of all green spaces.
+166,gg_2021_all-area_e_4_0-001,Distance decay weighted (parameter Î² = 0.001) area of all green spaces.
+167,gg_2021_all-area_e_4_0-003,Distance decay weighted (parameter Î² = 0.003) area of all green spaces.
+168,gg_2021_all-area_e_4_0-005,Distance decay weighted (parameter Î² = 0.005) area of all green spaces.
+169,gg_2021_all-area_e_4_0-007,Distance decay weighted (parameter Î² = 0.007) area of all green spaces.
+170,gg_2021_all-area_e_4_0-01,Distance decay weighted (parameter Î² = 0.01) area of all green spaces.
+171,gg_2021_all-count_f_2_300,Count of all green spaces within street network based distance of 300m.
+172,gg_2021_all-count_f_2_500,Count of all green spaces within street network based distance of 500m.
+173,gg_2021_all-count_f_2_1000,Count of all green spaces within street network based distance of 1000m.
+174,gg_2021_all-count_f_2_2000,Count of all green spaces within street network based distance of 2000m.
+175,gg_2021_all-count-2ha_f_2_300,Count of all green spaces of at least 2 hectar within street network based distance of 300m.
+176,gg_2021_all-count-20ha_f_2_2000,Count of all green spaces of at least 20 hectar within street network based distance of 2000m.
+177,gg_2021_all-count-100ha_f_2_5000,Count of all green spaces of at least 100 hectar within street network based distance of 5000m.
+178,gg_2021_all-distance_f_2_mean,Average distance to all green spaces.
+179,gg_2021_all-closest_d_2,Distance to the closest green space.
+180,gg_2021_bog-count_e_4_0-001,Distance decay weighted (parameter Î² = 0.001) count of bowling greens.
+181,gg_2021_bog-count_e_4_0-003,Distance decay weighted (parameter Î² = 0.003) count of bowling greens.
+182,gg_2021_bog-count_e_4_0-005,Distance decay weighted (parameter Î² = 0.005) count of bowling greens.
+183,gg_2021_bog-count_e_4_0-007,Distance decay weighted (parameter Î² = 0.007) count of bowling greens.
+184,gg_2021_bog-count_e_4_0-01,Distance decay weighted (parameter Î² = 0.01) count of bowling greens.
+185,gg_2021_bog-area_e_4_0-001,Distance decay weighted (parameter Î² = 0.001) area of bowling greens.
+186,gg_2021_bog-area_e_4_0-003,Distance decay weighted (parameter Î² = 0.003) area of bowling greens.
+187,gg_2021_bog-area_e_4_0-005,Distance decay weighted (parameter Î² = 0.005) area of bowling greens.
+188,gg_2021_bog-area_e_4_0-007,Distance decay weighted (parameter Î² = 0.007) area of bowling greens.
+189,gg_2021_bog-area_e_4_0-01,Distance decay weighted (parameter Î² = 0.01) area of bowling greens.
+190,gg_2021_bog-count_f_2_300,Count of bowling greens within street network based distance of 300m.
+191,gg_2021_bog-count_f_2_500,Count of bowling greens within street network based distance of 500m.
+192,gg_2021_bog-count_f_2_1000,Count of bowling greens within street network based distance of 1000m.
+193,gg_2021_bog-count_f_2_2000,Count of bowling greens within street network based distance of 2000m.
+194,gg_2021_bog-count-2ha_f_2_300,Count of bowling greens of at least 2 hectar within street network based distance of 300m.
+195,gg_2021_bog-count-20ha_f_2_2000,Count of bowling greens of at least 20 hectar within street network based distance of 2000m.
+196,gg_2021_bog-count-100ha_f_2_5000,Count of bowling greens of at least 100 hectar within street network based distance of 5000m.
+197,gg_2021_bog-distance_f_2_mean,Average distance to all bowling greens.
+198,gg_2021_bog-closest_d_2,Distance to the closest bowling green.
+199,gg_2021_cem-count_e_4_0-001,Distance decay weighted (parameter Î² = 0.001) count of cemeteries.
+200,gg_2021_cem-count_e_4_0-003,Distance decay weighted (parameter Î² = 0.003) count of cemeteries.
+201,gg_2021_cem-count_e_4_0-005,Distance decay weighted (parameter Î² = 0.005) count of cemeteries.
+202,gg_2021_cem-count_e_4_0-007,Distance decay weighted (parameter Î² = 0.007) count of cemeteries.
+203,gg_2021_cem-count_e_4_0-01,Distance decay weighted (parameter Î² = 0.01) count of cemeteries.
+204,gg_2021_cem-area_e_4_0-001,Distance decay weighted (parameter Î² = 0.001) area of cemeteries.
+205,gg_2021_cem-area_e_4_0-003,Distance decay weighted (parameter Î² = 0.003) area of cemeteries.
+206,gg_2021_cem-area_e_4_0-005,Distance decay weighted (parameter Î² = 0.005) area of cemeteries.
+207,gg_2021_cem-area_e_4_0-007,Distance decay weighted (parameter Î² = 0.007) area of cemeteries.
+208,gg_2021_cem-area_e_4_0-01,Distance decay weighted (parameter Î² = 0.01) area of cemeteries.
+209,gg_2021_cem-count_f_2_300,Count of cemeteries within street network based distance of 300m.
+210,gg_2021_cem-count_f_2_500,Count of cemeteries within street network based distance of 500m.
+211,gg_2021_cem-count_f_2_1000,Count of cemeteries within street network based distance of 1000m.
+212,gg_2021_cem-count_f_2_2000,Count of cemeteries within street network based distance of 2000m.
+213,gg_2021_cem-count-2ha_f_2_300,Count of cemeteries of at least 2 hectar within street network based distance of 300m.
+214,gg_2021_cem-count-20ha_f_2_2000,Count of cemeteries of at least 20 hectar within street network based distance of 2000m.
+215,gg_2021_cem-count-100ha_f_2_5000,Count of cemeteries of at least 100 hectar within street network based distance of 5000m.
+216,gg_2021_cem-distance_f_2_mean,Average distance to all cemeteries.
+217,gg_2021_cem-closest_d_2,Distance to the closest cemetery.
+218,gg_2021_gco-count_e_4_0-001,Distance decay weighted (parameter Î² = 0.001) count of golf courses.
+219,gg_2021_gco-count_e_4_0-003,Distance decay weighted (parameter Î² = 0.003) count of golf courses.
+220,gg_2021_gco-count_e_4_0-005,Distance decay weighted (parameter Î² = 0.005) count of golf courses.
+221,gg_2021_gco-count_e_4_0-007,Distance decay weighted (parameter Î² = 0.007) count of golf courses.
+222,gg_2021_gco-count_e_4_0-01,Distance decay weighted (parameter Î² = 0.01) count of golf courses.
+223,gg_2021_gco-area_e_4_0-001,Distance decay weighted (parameter Î² = 0.001) area of golf courses.
+224,gg_2021_gco-area_e_4_0-003,Distance decay weighted (parameter Î² = 0.003) area of golf courses.
+225,gg_2021_gco-area_e_4_0-005,Distance decay weighted (parameter Î² = 0.005) area of golf courses.
+226,gg_2021_gco-area_e_4_0-007,Distance decay weighted (parameter Î² = 0.007) area of golf courses.
+227,gg_2021_gco-area_e_4_0-01,Distance decay weighted (parameter Î² = 0.01) area of golf courses.
+228,gg_2021_gco-count_f_2_300,Count of golf courses within street network based distance of 300m.
+229,gg_2021_gco-count_f_2_500,Count of golf courses within street network based distance of 500m.
+230,gg_2021_gco-count_f_2_1000,Count of golf courses within street network based distance of 1000m.
+231,gg_2021_gco-count_f_2_2000,Count of golf courses within street network based distance of 2000m.
+232,gg_2021_gco-count-2ha_f_2_300,Count of golf courses of at least 2 hectar within street network based distance of 300m.
+233,gg_2021_gco-count-20ha_f_2_2000,Count of golf courses of at least 20 hectar within street network based distance of 2000m.
+234,gg_2021_gco-count-100ha_f_2_5000,Count of golf courses of at least 100 hectar within street network based distance of 5000m.
+235,gg_2021_gco-distance_f_2_mean,Average distance to all golf courses.
+236,gg_2021_gco-closest_d_2,Distance to the closest golf course.
+237,gg_2020_ndvi_g_1_100_mean,"Average normalised difference vegetation index (NDVI) within 100m circular buffer around the home address, using 2020 sattelite data from the United States Geological Survey."
+238,gg_2020_ndvi_g_1_300_mean,"Average normalised difference vegetation index (NDVI) within 300m circular buffer around the home address, using 2020 sattelite data from the United States Geological Survey."
+239,gg_2020_ndvi_g_1_500_mean,"Average normalised difference vegetation index (NDVI) within 500m circular buffer around the home address, using 2020 sattelite data from the United States Geological Survey."
+240,gg_2020_ndvi_g_1_1000_mean,"Average normalised difference vegetation index (NDVI) within 1000m circular buffer around the home address, using 2020 sattelite data from the United States Geological Survey."
+241,gg_2020_ndvi_g_1_1500_mean,"Average normalised difference vegetation index (NDVI) within 1500m circular buffer around the home address, using 2020 sattelite data from the United States Geological Survey."
+242,gg_2020_ndvi_g_1_2000_mean,"Average normalised difference vegetation index (NDVI) within 2000m circular buffer around the home address, using 2020 sattelite data from the United States Geological Survey."
+243,gg_2020_ndvi_i_2_100_mean,"Average normalised difference vegetation index (NDVI) within 100m street network based catchment area around the home address, using 2020 sattelite data from the United States Geological Survey."
+244,gg_2020_ndvi_i_2_300_mean,"Average normalised difference vegetation index (NDVI) within 300m street network based catchment area around the home address, using 2020 sattelite data from the United States Geological Survey."
+245,gg_2020_ndvi_i_2_500_mean,"Average normalised difference vegetation index (NDVI) within 500m street network based catchment area around the home address, using 2020 sattelite data from the United States Geological Survey."
+246,gg_2020_ndvi_i_2_1000_mean,"Average normalised difference vegetation index (NDVI) within 1000m street network based catchment area around the home address, using 2020 sattelite data from the United States Geological Survey."
+247,gg_2021_osf-count_e_4_0-001,Distance decay weighted (parameter Î² = 0.001) count of other sports facilities.
+248,gg_2021_osf-count_e_4_0-003,Distance decay weighted (parameter Î² = 0.003) count of other sports facilities.
+249,gg_2021_osf-count_e_4_0-005,Distance decay weighted (parameter Î² = 0.005) count of other sports facilities.
+250,gg_2021_osf-count_e_4_0-007,Distance decay weighted (parameter Î² = 0.007) count of other sports facilities.
+251,gg_2021_osf-count_e_4_0-01,Distance decay weighted (parameter Î² = 0.01) count of other sports facilities.
+252,gg_2021_osf-area_e_4_0-001,Distance decay weighted (parameter Î² = 0.001) area of other sports facilities.
+253,gg_2021_osf-area_e_4_0-003,Distance decay weighted (parameter Î² = 0.003) area of other sports facilities.
+254,gg_2021_osf-area_e_4_0-005,Distance decay weighted (parameter Î² = 0.005) area of other sports facilities.
+255,gg_2021_osf-area_e_4_0-007,Distance decay weighted (parameter Î² = 0.007) area of other sports facilities.
+256,gg_2021_osf-area_e_4_0-01,Distance decay weighted (parameter Î² = 0.01) area of other sports facilities.
+257,gg_2021_osf-count_f_2_300,Count of other sports facilities within street network based distance of 300m.
+258,gg_2021_osf-count_f_2_500,Count of other sports facilities within street network based distance of 500m.
+259,gg_2021_osf-count_f_2_1000,Count of other sports facilities within street network based distance of 1000m.
+260,gg_2021_osf-count_f_2_2000,Count of other sports facilities within street network based distance of 2000m.
+261,gg_2021_osf-count-2ha_f_2_300,Count of other sports facilities of at least 2 hectar within street network based distance of 300m.
+262,gg_2021_osf-count-20ha_f_2_2000,Count of other sports facilities of at least 20 hectar within street network based distance of 2000m.
+263,gg_2021_osf-count-100ha_f_2_5000,Count of other sports facilities of at least 100 hectar within street network based distance of 5000m.
+264,gg_2021_osf-distance_f_2_mean,Average distance to all other sports facilities.
+265,gg_2021_osf-closest_d_2,Distance to the closest other sports facility.
+266,gg_2021_pfi-count_e_4_0-001,Distance decay weighted (parameter Î² = 0.001) count of playing fields.
+267,gg_2021_pfi-count_e_4_0-003,Distance decay weighted (parameter Î² = 0.003) count of playing fields.
+268,gg_2021_pfi-count_e_4_0-005,Distance decay weighted (parameter Î² = 0.005) count of playing fields.
+269,gg_2021_pfi-count_e_4_0-007,Distance decay weighted (parameter Î² = 0.007) count of playing fields.
+270,gg_2021_pfi-count_e_4_0-01,Distance decay weighted (parameter Î² = 0.01) count of playing fields.
+271,gg_2021_pfi-area_e_4_0-001,Distance decay weighted (parameter Î² = 0.001) area of playing fields.
+272,gg_2021_pfi-area_e_4_0-003,Distance decay weighted (parameter Î² = 0.003) area of playing fields.
+273,gg_2021_pfi-area_e_4_0-005,Distance decay weighted (parameter Î² = 0.005) area of playing fields.
+274,gg_2021_pfi-area_e_4_0-007,Distance decay weighted (parameter Î² = 0.007) area of playing fields.
+275,gg_2021_pfi-area_e_4_0-01,Distance decay weighted (parameter Î² = 0.01) area of playing fields.
+276,gg_2021_pfi-count_f_2_300,Count of playing fields within street network based distance of 300m.
+277,gg_2021_pfi-count_f_2_500,Count of playing fields within street network based distance of 500m.
+278,gg_2021_pfi-count_f_2_1000,Count of playing fields within street network based distance of 1000m.
+279,gg_2021_pfi-count_f_2_2000,Count of playing fields within street network based distance of 2000m.
+280,gg_2021_pfi-count-2ha_f_2_300,Count of playing fields of at least 2 hectar within street network based distance of 300m.
+281,gg_2021_pfi-count-20ha_f_2_2000,Count of playing fields of at least 20 hectar within street network based distance of 2000m.
+282,gg_2021_pfi-count-100ha_f_2_5000,Count of playing fields of at least 100 hectar within street network based distance of 5000m.
+283,gg_2021_pfi-distance_f_2_mean,Average distance to all playing fields.
+284,gg_2021_pfi-closest_d_2,Distance to the closest playing field.
+285,gg_2021_ppg-count_e_4_0-001,Distance decay weighted (parameter Î² = 0.001) count of public parks or gardens.
+286,gg_2021_ppg-count_e_4_0-003,Distance decay weighted (parameter Î² = 0.003) count of public parks or gardens.
+287,gg_2021_ppg-count_e_4_0-005,Distance decay weighted (parameter Î² = 0.005) count of public parks or gardens.
+288,gg_2021_ppg-count_e_4_0-007,Distance decay weighted (parameter Î² = 0.007) count of public parks or gardens.
+289,gg_2021_ppg-count_e_4_0-01,Distance decay weighted (parameter Î² = 0.01) count of public parks or gardens.
+290,gg_2021_ppg-area_e_4_0-001,Distance decay weighted (parameter Î² = 0.001) area of public parks or gardens.
+291,gg_2021_ppg-area_e_4_0-003,Distance decay weighted (parameter Î² = 0.003) area of public parks or gardens.
+292,gg_2021_ppg-area_e_4_0-005,Distance decay weighted (parameter Î² = 0.005) area of public parks or gardens.
+293,gg_2021_ppg-area_e_4_0-007,Distance decay weighted (parameter Î² = 0.007) area of public parks or gardens.
+294,gg_2021_ppg-area_e_4_0-01,Distance decay weighted (parameter Î² = 0.01) area of public parks or gardens.
+295,gg_2021_ppg-count_f_2_300,Count of public parks or gardens within street network based distance of 300m.
+296,gg_2021_ppg-count_f_2_500,Count of public parks or gardens within street network based distance of 500m.
+297,gg_2021_ppg-count_f_2_1000,Count of public parks or gardens within street network based distance of 1000m.
+298,gg_2021_ppg-count_f_2_2000,Count of public parks or gardens within street network based distance of 2000m.
+299,gg_2021_ppg-count-2ha_f_2_300,Count of public parks or gardens of at least 2 hectar within street network based distance of 300m.
+300,gg_2021_ppg-count-20ha_f_2_2000,Count of public parks or gardens of at least 20 hectar within street network based distance of 2000m.
+301,gg_2021_ppg-count-100ha_f_2_5000,Count of public parks or gardens of at least 100 hectar within street network based distance of 5000m.
+302,gg_2021_ppg-distance_f_2_mean,Average distance to all public parks or gardens.
+303,gg_2021_ppg-closest_d_2,Distance to the closest public park or garden.
+305,gg_2021_psp-count_e_4_0-001,Distance decay weighted (parameter Î² = 0.001) count of play spaces.
+306,gg_2021_psp-count_e_4_0-003,Distance decay weighted (parameter Î² = 0.003) count of play spaces.
+307,gg_2021_psp-count_e_4_0-005,Distance decay weighted (parameter Î² = 0.005) count of play spaces.
+308,gg_2021_psp-count_e_4_0-007,Distance decay weighted (parameter Î² = 0.007) count of play spaces.
+309,gg_2021_psp-count_e_4_0-01,Distance decay weighted (parameter Î² = 0.01) count of play spaces.
+310,gg_2021_psp-area_e_4_0-001,Distance decay weighted (parameter Î² = 0.001) area of play spaces.
+311,gg_2021_psp-area_e_4_0-003,Distance decay weighted (parameter Î² = 0.003) area of play spaces.
+312,gg_2021_psp-area_e_4_0-005,Distance decay weighted (parameter Î² = 0.005) area of play spaces.
+313,gg_2021_psp-area_e_4_0-007,Distance decay weighted (parameter Î² = 0.007) area of play spaces.
+314,gg_2021_psp-area_e_4_0-01,Distance decay weighted (parameter Î² = 0.01) area of play spaces.
+315,gg_2021_psp-count_f_2_300,Count of play spaces within street network based distance of 300m.
+316,gg_2021_psp-count_f_2_500,Count of play spaces within street network based distance of 500m.
+317,gg_2021_psp-count_f_2_1000,Count of play spaces within street network based distance of 1000m.
+318,gg_2021_psp-count_f_2_2000,Count of play spaces within street network based distance of 2000m.
+319,gg_2021_psp-count-2ha_f_2_300,Count of play spaces of at least 2 hectar within street network based distance of 300m.
+320,gg_2021_psp-count-20ha_f_2_2000,Count of play spaces of at least 20 hectar within street network based distance of 2000m.
+321,gg_2021_psp-count-100ha_f_2_5000,Count of play spaces of at least 100 hectar within street network based distance of 5000m.
+322,gg_2021_psp-distance_f_2_mean,Average distance to all play spaces.
+323,gg_2021_psp-closest_d_2,Distance to the closest play space.
+324,gg_2021_reg-count_e_4_0-001,Distance decay weighted (parameter Î² = 0.001) count of religious grounds.
+325,gg_2021_reg-count_e_4_0-003,Distance decay weighted (parameter Î² = 0.003) count of religious grounds.
+326,gg_2021_reg-count_e_4_0-005,Distance decay weighted (parameter Î² = 0.005) count of religious grounds.
+327,gg_2021_reg-count_e_4_0-007,Distance decay weighted (parameter Î² = 0.007) count of religious grounds.
+328,gg_2021_reg-count_e_4_0-01,Distance decay weighted (parameter Î² = 0.01) count of religious grounds.
+329,gg_2021_reg-area_e_4_0-001,Distance decay weighted (parameter Î² = 0.001) area of religious grounds.
+330,gg_2021_reg-area_e_4_0-003,Distance decay weighted (parameter Î² = 0.003) area of religious grounds.
+331,gg_2021_reg-area_e_4_0-005,Distance decay weighted (parameter Î² = 0.005) area of religious grounds.
+332,gg_2021_reg-area_e_4_0-007,Distance decay weighted (parameter Î² = 0.007) area of religious grounds.
+333,gg_2021_reg-area_e_4_0-01,Distance decay weighted (parameter Î² = 0.01) area of religious grounds.
+334,gg_2021_reg-count_f_2_300,Count of religious grounds within street network based distance of 300m.
+335,gg_2021_reg-count_f_2_500,Count of religious grounds within street network based distance of 500m.
+336,gg_2021_reg-count_f_2_1000,Count of religious grounds within street network based distance of 1000m.
+337,gg_2021_reg-count_f_2_2000,Count of religious grounds within street network based distance of 2000m.
+338,gg_2021_reg-count-2ha_f_2_300,Count of religious grounds of at least 2 hectar within street network based distance of 300m.
+339,gg_2021_reg-count-20ha_f_2_2000,Count of religious grounds of at least 20 hectar within street network based distance of 2000m.
+340,gg_2021_reg-count-100ha_f_2_5000,Count of religious grounds of at least 100 hectar within street network based distance of 5000m.
+341,gg_2021_reg-distance_f_2_mean,Average distance to all religious grounds.
+342,gg_2021_reg-closest_d_2,Distance to the closest religious ground.
+343,gg_2021_tco-count_e_4_0-001,Distance decay weighted (parameter Î² = 0.001) count of tennis courts.
+344,gg_2021_tco-count_e_4_0-003,Distance decay weighted (parameter Î² = 0.003) count of tennis courts.
+345,gg_2021_tco-count_e_4_0-005,Distance decay weighted (parameter Î² = 0.005) count of tennis courts.
+346,gg_2021_tco-count_e_4_0-007,Distance decay weighted (parameter Î² = 0.007) count of tennis courts.
+347,gg_2021_tco-count_e_4_0-01,Distance decay weighted (parameter Î² = 0.01) count of tennis courts.
+348,gg_2021_tco-area_e_4_0-001,Distance decay weighted (parameter Î² = 0.001) area of tennis courts.
+349,gg_2021_tco-area_e_4_0-003,Distance decay weighted (parameter Î² = 0.003) area of tennis courts.
+350,gg_2021_tco-area_e_4_0-005,Distance decay weighted (parameter Î² = 0.005) area of tennis courts.
+351,gg_2021_tco-area_e_4_0-007,Distance decay weighted (parameter Î² = 0.007) area of tennis courts.
+352,gg_2021_tco-area_e_4_0-01,Distance decay weighted (parameter Î² = 0.01) area of cemeteries.
+353,gg_2021_tco-count_f_2_300,Count of tennis courts within street network based distance of 300m.
+354,gg_2021_tco-count_f_2_500,Count of tennis courts within street network based distance of 500m.
+355,gg_2021_tco-count_f_2_1000,Count of tennis courts within street network based distance of 1000m.
+356,gg_2021_tco-count_f_2_2000,Count of tennis courts within street network based distance of 2000m.
+357,gg_2021_tco-count-2ha_f_2_300,Count of tennis courts of at least 2 hectar within street network based distance of 300m.
+358,gg_2021_tco-count-20ha_f_2_2000,Count of tennis courts of at least 20 hectar within street network based distance of 2000m.
+359,gg_2021_tco-count-100ha_f_2_5000,Count of tennis courts of at least 100 hectar within street network based distance of 5000m.
+360,gg_2021_tco-distance_f_2_mean,Average distance to all tennis courts.
+361,gg_2021_tco-closest_d_2,Distance to the closest tennis court.
+362,iq_2021_inspection-date,The date that the inspection was actually carried out by the energy assessor.
+363,iq_2021_construction-age-band,Age band when building part constructed. England & Wales only. One of: before 1900; 1900-1929; 1930-1949; 1950-1966; 1967-1975; 1976-1982; 1983-1990; 1991-1995; 1996-2002; 2003-2006; 2007-2011; 2012 onwards.
+364,iq_2021_built-form,"The building type of the property, e.g., Detached, Semi-Detached, Terrace, etc..Together with the Property Type, the Build Form produces a structured description of the property."
+365,iq_2021_property-type,"Describes the type of property such as House, Flat, Maisonette etc. This is the type differentiator for dwellings.Â "
+366,iq_2021_floor-level,"Floor level relative to the lowest level of the property (0 for ground floor). If there is a basement, the basement is level 0 and the other floors are from 1 upwards. Measure only availabe for flats and maisonettes."
+367,iq_2021_flat-storey-count,The number of storeys in the apartment block.Â 
+368,iq_2021_flat-top-storey,Whether the flat is on the top storey. Measure availabe for flats only.
+369,iq_2021_total-floor-area,"The total useful floor area in square meter is the total of all enclosed spaces measured to the internal face of the external walls, i.e., the gross floor area as measured in accordance with the guidance issued from time to time by the Royal Institute of Chartered Surveyors or by a body replacing that institution."
+370,iq_2021_floor-height,Average height of the storey in metres.Â 
+371,iq_2021_number-heated-rooms,The number of heated rooms in the property if more than half of the habitable rooms are not heated.Â 
+372,iq_2021_number-habitable-rooms,"Habitable rooms include any living room, sitting room, dining room, bedroom, study and similar; and also a non-separated conservatory. A kitchen/diner having a discrete seating area (with space for a table and four chairs) also counts as a habitable room. A non-separated conservatory adds to the habitable room count if it has an internal quality door between it and the dwelling. Excluded from the room count are any room used solely as a kitchen, utility room, bathroom, cloakroom, en-suite accommodation and similar and any hallway, stairs or landing; and also any room not having a window.Â "
+373,iq_2021_extension-count,The number of extensions added to the property.
+374,iq_2021_glazed-area,Ranged estimate of the total glazed area of the habitable area.
+375,iq_2021_glazed-type,"The type of glazing, using British Fenestration Rating Council or manufacturer declaration."
+376,iq_2021_energy-consumption-current,Current estimated total energy consumption for the property in a 12-month period in kilowatt hours per square metre (kWh/mÂ²).
+377,iq_2021_energy-consumption-potential,Estimated potential total energy consumption for the property in a 12-month period in kilowatt hours per square metre (kWh/mÂ²).
+378,iq_2021_hot-water-cost-current,Current estimated annual energy costs for hot water in GBP.
+379,iq_2021_heating-cost-current,Current estimated annual energy costs for heating the property in GBP.
+380,iq_2021_lighting-cost-current,Current estimated annual energy costs for lighting the property in GBP.
+381,iq_2021_potential-energy-efficiency,The potential energy efficiency rating of the property.Â 
+382,iq_2021_current-energy-efficiency,"Energy efficiency based on cost of energy, i.e. energy required for space heating, water heating and lighting (in kWh/year) multiplied by fuel costs. (Â£/mÂ²/year where cost is derived from kWh)."
+383,iq_2021_potential-energy-rating,Estimated potential energy rating converted into a linear 'A to G' rating (where A is the most energy efficient and G is the least energy efficient).
+384,iq_2021_current-energy-rating,Current energy rating converted into a linear 'A to G' rating (where A is the most energy efficient and G is the least energy efficient).
+385,iq_2021_transaction-type,Type of transaction that triggered assessment.
+386,iq_2021_tenure-type,Describes the tenure type of the property.
+387,la_2019_land-use-intensity_g_1_100_mean,Average intensity of lande-uses (Shannonâ€™s Diversity Index) within 100m circular buffer around the home address.
+388,la_2019_land-use-intensity_g_1_300_mean,Average intensity of lande-uses (Shannonâ€™s Diversity Index) within 300m circular buffer around the home address.
+389,la_2019_land-use-intensity_g_1_500_mean,Average intensity of lande-uses (Shannonâ€™s Diversity Index) within 500m circular buffer around the home address.
+390,la_2019_land-use-intensity_g_1_1000_mean,Average intensity of lande-uses (Shannonâ€™s Diversity Index) within 1000m circular buffer around the home address.
+391,la_2019_land-use-intensity_g_1_1500_mean,Average intensity of lande-uses (Shannonâ€™s Diversity Index) within 1500m circular buffer around the home address.
+392,la_2019_land-use-intensity_g_1_2000_mean,Average intensity of lande-uses (Shannonâ€™s Diversity Index) within 2000m circular buffer around the home address.
+393,pt_2021_air-count_e_4_0-001,Distance decay weighted (parameter Î² = 0.001) count of airports.
+394,pt_2021_air-count_e_4_0-003,Distance decay weighted (parameter Î² = 0.003) count of airports.
+395,pt_2021_air-count_e_4_0-005,Distance decay weighted (parameter Î² = 0.005) count of airports.
+396,pt_2021_air-count_e_4_0-007,Distance decay weighted (parameter Î² = 0.007) count of airports.
+397,pt_2021_air-count_e_4_0-01,Distance decay weighted (parameter Î² = 0.01) count of airports.
+398,pt_2021_air-count_f_2_300,Count of airports within street network based distance of 300m.
+399,pt_2021_air-count_f_2_500,Count of airports within street network based distance of 500m.
+400,pt_2021_air-count_f_2_1000,Count of airports within street network based distance of 1000m.
+401,pt_2021_air-count_f_2_2000,Count of airports within street network based distance of 2000m.
+402,pt_2021_air-distance_f_2_mean,Average distance to all airports.
+403,pt_2021_air-closest_d_2,Distance to the closest airport in meters.
+404,pt_2021_bus-count_e_4_0-001,Distance decay weighted (parameter Î² = 0.001) count of bus stops.
+405,pt_2021_bus-count_e_4_0-003,Distance decay weighted (parameter Î² = 0.003) count of bus stops.
+406,pt_2021_bus-count_e_4_0-005,Distance decay weighted (parameter Î² = 0.005) count of bus stops.
+407,pt_2021_bus-count_e_4_0-007,Distance decay weighted (parameter Î² = 0.007) count of bus stops.
+408,pt_2021_bus-count_e_4_0-01,Distance decay weighted (parameter Î² = 0.01) count of bus stops.
+409,pt_2021_bus-count_f_2_300,Count of bus stops within street network based distance of 300m.
+410,pt_2021_bus-count_f_2_500,Count of bus stops within street network based distance of 500m.
+411,pt_2021_bus-count_f_2_1000,Count of bus stops within street network based distance of 1000m.
+412,pt_2021_bus-count_f_2_2000,Count of bus stops within street network based distance of 2000m.
+413,pt_2021_bus-distance_f_2_mean,Average distance to all bus stops.
+414,pt_2021_bus-closest_d_2,Distance to the closest bus stop in meters.
+415,pt_2021_coach-count_e_4_0-001,Distance decay weighted (parameter Î² = 0.001) count of coach stops.
+416,pt_2021_coach-count_e_4_0-003,Distance decay weighted (parameter Î² = 0.003) count of coach stops.
+417,pt_2021_coach-count_e_4_0-005,Distance decay weighted (parameter Î² = 0.005) count of coach stops.
+418,pt_2021_coach-count_e_4_0-007,Distance decay weighted (parameter Î² = 0.007) count of coach stops.
+419,pt_2021_coach-count_e_4_0-01,Distance decay weighted (parameter Î² = 0.01) count of coach stops.
+420,pt_2021_coach-count_f_2_300,Count of coach stops within street network based distance of 300m.
+421,pt_2021_coach-count_f_2_500,Count of coach stops within street network based distance of 500m.
+422,pt_2021_coach-count_f_2_1000,Count of coach stops within street network based distance of 1000m.
+423,pt_2021_coach-count_f_2_2000,Count of coach stops within street network based distance of 2000m.
+424,pt_2021_coach-distance_f_2_mean,Average distance to all coach stop.
+425,pt_2021_coach-closest_d_2,Distance to the closest coach stop in meters.
+426,pt_2021_metro-count_e_4_0-001,Distance decay weighted (parameter Î² = 0.001) count of metro stations.
+427,pt_2021_metro-count_e_4_0-003,Distance decay weighted (parameter Î² = 0.003) count of metro stations.
+428,pt_2021_metro-count_e_4_0-005,Distance decay weighted (parameter Î² = 0.005) count of metro stations.
+429,pt_2021_metro-count_e_4_0-007,Distance decay weighted (parameter Î² = 0.007) count of metro stations.
+430,pt_2021_metro-count_e_4_0-01,Distance decay weighted (parameter Î² = 0.01) count of metro stations.
+431,pt_2021_metro-count_f_2_300,Count of metro stations within street network based distance of 300m.
+432,pt_2021_metro-count_f_2_500,Count of metro stations within street network based distance of 500m.
+433,pt_2021_metro-count_f_2_1000,Count of metro stations within street network based distance of 1000m.
+434,pt_2021_metro-count_f_2_2000,Count of metro stations within street network based distance of 2000m.
+435,pt_2021_metro-distance_f_2_mean,Average distance to all metro stations.
+436,pt_2021_metro-closest_d_2,Distance to the closest metro station in meters.
+437,pt_2021_rail-count_e_4_0-001,Distance decay weighted (parameter Î² = 0.001) count of rail stations.
+438,pt_2021_rail-count_e_4_0-003,Distance decay weighted (parameter Î² = 0.003) count of rail stations.
+439,pt_2021_rail-count_e_4_0-005,Distance decay weighted (parameter Î² = 0.005) count of rail stations.
+440,pt_2021_rail-count_e_4_0-007,Distance decay weighted (parameter Î² = 0.007) count of rail stations.
+441,pt_2021_rail-count_e_4_0-01,Distance decay weighted (parameter Î² = 0.01) count of airports.
+442,pt_2021_rail-count_f_2_300,Count of rail stations within street network based distance of 300m.
+443,pt_2021_rail-count_f_2_500,Count of rail stations within street network based distance of 500m.
+444,pt_2021_rail-count_f_2_1000,Count of rail stations within street network based distance of 1000m.
+445,pt_2021_rail-count_f_2_2000,Count of rail stations within street network based distance of 2000m.
+446,pt_2021_rail-distance_f_2_mean,Average distance to all rail stations.
+447,pt_2021_rail-closest_d_2,Distance to the closest rail station in meters.
+448,tr_2019_am-count_f_2_300_mean,Average number of vehicles during morning period within street network based distance of 300m.
+449,tr_2019_am-cong_f_2_300_mean,Average congestion during morning period within street network based distance of 300m.
+450,tr_2019_ip-count_f_2_300_mean,Average number of vehicles during intermediate period within street network based distance of 300m.
+451,tr_2019_ip-cong_f_2_300_mean,Average congestion of vehicles during intermediate period within street network based distance of 300m.
+452,tr_2019_pm-count_f_2_300_mean,Average number of vehicles during evening period within street network based distance of 300m.
+453,tr_2019_pm-cong_f_2_300_mean,Average congestion of vehicles during evening period within street network based distance of 300m.
+454,tr_2019_am-count_f_2_300_max,Maximum number of vehicles during morning period within street network based distance of 300m.
+455,tr_2019_am-cong_f_2_300_min,Minimum congestion during morning period within street network based distance of 300m.
+456,tr_2019_ip-count_f_2_300_max,Maximum number of vehicles during intermediate period within street network based distance of 300m.
+457,tr_2019_ip-cong_f_2_300_min,Minimum congestion during intermediate period within street network based distance of 300m.
+458,tr_2019_pm-count_f_2_300_max,Maximum number of vehicles during evening period within street network based distance of 300m.
+459,tr_2019_pm-cong_f_2_300_min,Minimum congestion during evening period within street network based distance of 300m.
+460,tr_2019_am-count_f_2_100_mean,Average number of vehicles during morning period within street network based distance of 100m.
+461,tr_2019_am-cong_f_2_100_mean,Average congestion during morning period within street network based distance of 100m.
+462,tr_2019_ip-count_f_2_100_mean,Average number of vehicles during intermediate period within street network based distance of 100m.
+463,tr_2019_ip-cong_f_2_100_mean,Average congestion of vehicles during intermediate period within street network based distance of 100m.
+464,tr_2019_pm-count_f_2_100_mean,Average number of vehicles during evening period within street network based distance of 100m.
+465,tr_2019_pm-cong_f_2_100_mean,Average congestion of vehicles during evening period within street network based distance of 100m.
+466,tr_2019_am-count_f_2_100_max,Maximum number of vehicles during morning period within street network based distance of 100m.
+467,tr_2019_am-cong_f_2_100_min,Minimum congestion during morning period within street network based distance of 100m.
+468,tr_2019_ip-count_f_2_100_max,Maximum number of vehicles during intermediate period within street network based distance of 100m.
+469,tr_2019_ip-cong_f_2_100_min,Minimum congestion during intermediate period within street network based distance of 100m.
+470,tr_2019_pm-count_f_2_100_max,Maximum number of vehicles during evening period within street network based distance of 100m.
+471,tr_2019_pm-cong_f_2_100_min,Minimum congestion during evening period within street network based distance of 100m.
+472,tr_2019_am-count-closest_b_2,Count of vehicles during morning period at the residential street.
+473,tr_2019_am-cong-closest_b_2,Congestion during morning period at the residential street.
+474,tr_2019_ip-count-closest_b_2,Count of vehicles during intermediate period at the residential street.
+475,tr_2019_ip-cong-closest_b_2,Congestion during intermediate period at the residential street.
+476,tr_2019_pm-count-closest_b_2,Count of vehicles during evening period at the residential street.
+477,tr_2019_pm-cong-closest_b_2,Congestion during evening period at the residential street.
+478,sc_2021_betweenness_r500_f_3-2_300_max,Maximum value of angular betweenness centrality (radius 500m) within street network based distance of 300m.
+479,sc_2021_betweenness_r1000_f_3-2_300_max,Maximum value of angular betweenness centrality (radius 1000m) within street network based distance of 300m.
+480,sc_2021_betweenness_r1500_f_3-2_300_max,Maximum value of angular betweenness centrality (radius 1500m) within street network based distance of 300m.
+481,sc_2021_betweenness_r2000_f_3-2_300_max,Maximum value of angular betweenness centrality (radius 2000m) within street network based distance of 300m.
+482,sc_2021_closeness_r500_f_3-2_300_max,Maximum value of angular closeness centrality (radius 500m) within street network based distance of 300m.
+483,sc_2021_closeness_r1000_f_3-2_300_max,Maximum value of angular closeness centrality (radius 1000m) within street network based distance of 300m.
+484,sc_2021_closeness_r1500_f_3-2_300_max,Maximum value of angular closeness centrality (radius 1500m) within street network based distance of 300m.
+485,sc_2021_closeness_r2000_f_3-2_300_max,Maximum value of angular closeness centrality (radius 2000m) within street network based distance of 300m.
+486,sc_2021_betweenness_r500_f_3-2_300_mean,Average value of angular betweenness centrality (radius 500m) within street network based distance of 300m.
+487,sc_2021_betweenness_r1000_f_3-2_300_mean,Average value of angular betweenness centrality (radius 1000m) within street network based distance of 300m.
+488,sc_2021_betweenness_r1500_f_3-2_300_mean,Average value of angular betweenness centrality (radius 1500m) within street network based distance of 300m.
+489,sc_2021_betweenness_r2000_f_3-2_300_mean,Average value of angular betweenness centrality (radius 2000m) within street network based distance of 300m.
+490,sc_2021_closeness_r500_f_3-2_300_mean,Average value of angular closeness centrality (radius 500m) within street network based distance of 300m.
+491,sc_2021_closeness_r1000_f_3-2_300_mean,Average value of angular closeness centrality (radius 1000m) within street network based distance of 300m.
+492,sc_2021_closeness_r1500_f_3-2_300_mean,Average value of angular closeness centrality (radius 1500m) within street network based distance of 300m.
+493,sc_2021_closeness_r2000_f_3-2_300_mean,Average value of angular closeness centrality (radius 2000m) within street network based distance of 300m.
+494,sc_2021_betweenness_r500_b_3-2,Angular betweenness centrality (radius 500m) at the residential street.
+495,sc_2021_betweenness_r1000_b_3-2,Angular betweenness centrality (radius 1000m) at the residential street.
+496,sc_2021_betweenness_r1500_b_3-2,Angular betweenness centrality (radius 1500m) at the residential street.
+497,sc_2021_betweenness_r2000_b_3-2,Angular betweenness centrality (radius 2000m) at the residential street.
+498,sc_2021_closeness_r500_b_3-2,Angular closeness centrality (radius 500m) at the residential street.
+499,sc_2021_closeness_r1000_b_3-2,Angular closeness centrality (radius 1000m) at the residential street.
+500,sc_2021_closeness_r1500_b_3-2,Angular closeness centrality (radius 1500m) at the residential street.
+501,sc_2021_closeness_r2000_b_3-2,Angular closeness centrality (radius 2000m) at the residential street.
+502,sc_2021_distance_300_mean,Average distance to street segments in meters within street network based distance of 300m.
+503,wa_2019_walkability_g_1_100_mean,Average walkability within 100m circular buffer around the home address.
+504,wa_2019_walkability_g_1_300_mean,Average intensity of lande-uses (Shannonâ€™s Diversity Index) within 300m circular buffer around the home address.
+505,wa_2019_walkability_g_1_500_mean,Average intensity of lande-uses (Shannonâ€™s Diversity Index) within 500m circular buffer around the home address.
+506,wa_2019_walkability_g_1_1000_mean,Average intensity of lande-uses (Shannonâ€™s Diversity Index) within 1000m circular buffer around the home address.
+507,wa_2019_walkability_g_1_1500_mean,Average intensity of lande-uses (Shannonâ€™s Diversity Index) within 1500m circular buffer around the home address.
+508,wa_2019_walkability_g_1_2000_mean,Average intensity of lande-uses (Shannonâ€™s Diversity Index) within 2000m circular buffer around the home address.
